@@ -1,5 +1,5 @@
 # 🛒 Superstore Customer Details Dashboard
-### End-to-End Data Analytics Project | Python • MySQL • Power BI
+### End-to-End Data Analytics Project | Csv • Python • MySQL • Power BI
 
 ---
 
