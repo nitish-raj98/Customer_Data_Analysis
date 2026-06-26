@@ -38,7 +38,7 @@ Superstore-Customer-Details-Dashboard/
 │
 ├── 📄 README.md                    # Project documentation
 ├── 📊 Superstoredata.csv           # Raw dataset (9,994 records)
-├── 📓 Myworking.ipynb              # Python data cleaning notebook
+├── 📓 SuperstoreReport.ipynb              # Python data cleaning notebook
 ├── 🗄️ NEW_FILE SQL.sql             # MySQL analysis queries
 ├── 📊 SuperstoreDashboard.pbix     # Power BI dashboard file
 └── 🖼️ dashboard_screenshot.png     # Dashboard preview
@@ -123,7 +123,7 @@ Dashboard highlights:
    ```
 
 2. **Python Notebook:**
-   - Open `Myworking.ipynb` in Jupyter Lab
+   - Open `Superstore-Report` in Jupyter Lab
    - Run all cells to see data cleaning steps
 
 3. **SQL Queries:**
