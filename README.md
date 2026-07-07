@@ -1,5 +1,5 @@
 # 🛒 Superstore Customer Details Dashboard
-### End-to-End Data Analytics Project | Csv • Python • MySQL • Power BI
+### End-to-End Data Analytics Project | Csv • Python(Pandas & Numpy) • MySQL • Power BI
 
 ---
 
@@ -136,7 +136,7 @@ Dashboard highlights:
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Author
 
 **Nitish Raj**
 Senior Data Analyst | New Delhi, India
